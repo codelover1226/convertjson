@@ -32,3 +32,4 @@ E:\Workspace\cs\convertJson\convertjson\convertJson\convertJson\obj\Debug\net8.0
 E:\Workspace\cs\convertJson\convertjson\convertJson\convertJson\obj\Debug\net8.0\convertJson.pdb
 E:\Workspace\cs\convertJson\convertjson\convertJson\convertJson\obj\Debug\net8.0\convertJson.genruntimeconfig.cache
 E:\Workspace\cs\convertJson\convertjson\convertJson\convertJson\obj\Debug\net8.0\ref\convertJson.dll
+E:\Workspace\cs\convertJson\convertjson\convertJson\convertJson\obj\Debug\net8.0\convertJson.sourcelink.json

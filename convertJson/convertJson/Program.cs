@@ -15,7 +15,7 @@ class Program
         {
             stepFile = StepFile.Load(fs);
         }
-
+        Console.WriteLine(stepFile);
         // Analyze the STEP file and build the hierarchical structure
         var hierarchy = new Dictionary<string, object>();
         foreach (StepRepresentationItem item in stepFile.Items)
